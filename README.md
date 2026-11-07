@@ -34,8 +34,10 @@
 
 ### 🔥 GitHub Streak
 
+<h2>🔥 GitHub Streak</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hassankazmi025&theme=tokyonight" />
+  <img src="./profile/streak.svg" width="70%" />
 </p>
 
 ### 🌐 Connect With Me
