@@ -24,11 +24,12 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
+
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassankazmi025&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankazmi025&layout=compact&theme=tokyonight" height="165" />
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
 </p>
 
 ### 🔥 GitHub Streak
