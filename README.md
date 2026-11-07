@@ -53,3 +53,19 @@
 <p align="center">
   <b>✨ Keep Learning | Keep Building | Keep Growing ✨</b>
 </p>
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hassankazmi025/hassankazmi025/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hassankazmi025/hassankazmi025/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/hassankazmi025/hassankazmi025/output/github-snake.svg">
+  </picture>
+</p>
+
