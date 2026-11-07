@@ -40,21 +40,6 @@
   <img src="./profile/streak.svg" width="70%" />
 </p>
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/hassankazmi025">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>✨ Keep Learning | Keep Building | Keep Growing ✨</b>
-</p>
-
-
 
 ## 🐍 Contribution Snake
 
@@ -72,5 +57,24 @@
       width="100%">
   </picture>
 </p>
+
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/hassankazmi025">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Keep Learning | Keep Building | Keep Growing ✨</b>
+</p>
+
+
+
+
 
 
